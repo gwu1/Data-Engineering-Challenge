@@ -2,7 +2,7 @@
 Take home assignment based on Demyst Python API and building a model
 
 ## Description
-In this challenge you will have to use our Python API using the documentation to show your understanding of APIs and knowledge of python. The API documentation is available on [https://demyst.com/]. You can also login to our platform through the website where you will find input file for this challenge that you need to append with external data using the python API. 
+In this challenge you will have to use our Python API using the documentation to show your understanding of APIs and knowledge of python. The API documentation is available on https://demyst.com/. You can also login to our platform through the website where you will find input file for this challenge that you need to append with external data using the python API. 
 
 Once you are done with the append, you will have to predict the target variable (safety_flag). The input file is available through the Transfer Files section of the platform.
 
