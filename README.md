@@ -13,7 +13,7 @@ Perform three sub-tasks for submission:
 - Analyze and clean the input file using Python/Pandas in a jupyter notebook. 
 - Enrich the cleaned input with external data from the providers available on the platform.
 - Use the enriched file to predict the target variable (safety_flag). Can use any model building package/tools. Make sure the model can be re-trained. 
-- A jupyter notebook displaying the steps you took to clean the input and enrich it through our python API must be pushed to the Github Repo with any supporting files
+- A jupyter notebook displaying the steps you took to clean the input and enrich it through our python API along with the model must be pushed to the Github Repo with any supporting files
 
 If you use any third party libraries / nonstandard build tools, document the build instructions clearly in a readme file.
 
